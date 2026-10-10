@@ -1,0 +1,13 @@
+{
+  "name": "testers-home-root",
+  "version": "1.0.0",
+  "description": "Tester's Home - QA & Developer Collaboration Platform",
+  "scripts": {
+    "start:backend": "cd backend && npm start",
+    "dev:backend": "cd backend && npm run dev",
+    "seed": "cd backend && npm run seed",
+    "start:frontend": "cd frontend && npm run dev",
+    "build:frontend": "cd frontend && npm run build"
+  }
+}
+
